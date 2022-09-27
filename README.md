@@ -4,3 +4,5 @@ Coursera courses sponsored by SDAIA - FutureX
 These project assignments are a part of the Deep learning Specialization on Coursera
 
 Abdullah Aldughayem
+
+https://www.linkedin.com/in/abdullah-aldughayem/
